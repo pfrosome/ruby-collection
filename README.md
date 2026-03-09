@@ -2,20 +2,20 @@
 
 This repository contains a collection of Ruby scripts and examples.
 
-## 项目介绍
-本项目收集了多个 Ruby 语言的示例代码，旨在帮助学习者更好地理解 Ruby。
+## Project Overview
+This project collects various Ruby scripts and examples to help learners understand Ruby better.
 
-## 功能
-- 提供多种 Ruby 示例
-- 包含注释和使用说明
+## Features
+- Various Ruby examples
+- Includes explanations and usage notes
 
-## 技术栈
+## Tech Stack
 - Ruby
 
-## 使用方式
-1. 克隆仓库
-2. 运行示例代码，使用 `ruby <filename>.rb` 命令
+## Usage
+1. Clone the repository
+2. Run example scripts using `ruby <filename>.rb` command
 
-## 未来计划
-- 添加更多示例
-- 补充详细说明和文档
+## Future Plans
+- Add more examples
+- Enhance detailed explanations and documentation
