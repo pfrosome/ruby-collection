@@ -1,21 +1,16 @@
 # Ruby Collection
 
-This repository contains a collection of Ruby scripts and examples.
-
-## Project Overview
-This project collects various Ruby scripts and examples to help learners understand Ruby better.
+This repository is a collection of Ruby scripts and examples.
 
 ## Features
-- Various Ruby examples
-- Includes explanations and usage notes
+- Various Ruby scripts for different purposes.
+- Examples covering basic to advanced Ruby concepts.
 
-## Tech Stack
+## Technologies Used
 - Ruby
 
 ## Usage
-1. Clone the repository
-2. Run example scripts using `ruby <filename>.rb` command
+Clone the repository and run the scripts as needed.
 
 ## Future Plans
-- Add more examples
-- Enhance detailed explanations and documentation
+- Add more scripts and examples as I learn more about Ruby.
