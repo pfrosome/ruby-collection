@@ -14,3 +14,4 @@ Clone the repository and run the scripts as needed.
 
 ## Future Plans
 - Add more scripts and examples as I learn more about Ruby.
+- Include a section on Ruby best practices.
